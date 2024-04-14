@@ -1,4 +1,4 @@
-# Text 1
+Text 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed hendrerit risus, id malesuada
 quam. Cras id ligula sit amet ex pellentesque blandit. Sed id sollicitudin purus. Etiam bibendum,
